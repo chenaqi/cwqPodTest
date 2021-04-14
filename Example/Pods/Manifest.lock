@@ -1,0 +1,16 @@
+PODS:
+  - cwqPodTest (0.1.0)
+
+DEPENDENCIES:
+  - cwqPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  cwqPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  cwqPodTest: 89301e8a56faca7c1abe3f7fdbeaae3922a78ba0
+
+PODFILE CHECKSUM: 57535f07399072dceeb403241481ade58ce8da4c
+
+COCOAPODS: 1.10.1

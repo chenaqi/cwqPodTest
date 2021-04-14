@@ -1,0 +1,22 @@
+{
+  "name": "cwqPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of cwqPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenaqi/cwqPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenaqi": "@wuqi.chen@zhangmen.com"
+  },
+  "source": {
+    "git": "https://github.com/chenaqi/cwqPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "cwqPodTest/Classes/**/*"
+}
